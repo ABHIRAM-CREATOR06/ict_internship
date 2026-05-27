@@ -4,7 +4,9 @@ This repository contains Jupyter Notebooks for the ICT Internship program, cover
 
 ## 📋 Project Overview
 
-This project is a comprehensive learning resource consisting of interactive Jupyter Notebooks that explore core ICT concepts and practical programming exercises. The notebooks are designed to provide hands-on experience through code examples, explanations, and exercises.
+This project is a comprehensive learning resource consisting of interactive Jupyter Notebooks that explore core ICT concepts and practical programming exercises. The notebooks are designed to provide a structured learning path from Python fundamentals to advanced ICT topics with hands-on exercises.
+
+**Repository Language Composition:** 100% Jupyter Notebooks
 
 ## 📁 Repository Structure
 
@@ -92,6 +94,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Well-Structured Content:** Organized notebooks following a logical progression
 - **Practical Exercises:** Hands-on practice problems included
 - **Comprehensive Coverage:** From basics to advanced ICT concepts
+- **100% Jupyter Notebooks:** Pure notebook-based learning environment
 
 ## 📧 Support
 
