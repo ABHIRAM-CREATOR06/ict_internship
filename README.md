@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-purple?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-purple?style=flat-square)
 
 **A comprehensive learning resource with interactive Jupyter Notebooks for Information and Communication Technology fundamentals and advanced concepts.**
 
